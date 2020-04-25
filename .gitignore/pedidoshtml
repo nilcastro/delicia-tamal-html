@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rico tamal</title>
+  
+</head>
+<body>
+    <header>
+    <h1>Rico Tamal </h1>
+    <p>Una deliciosa tradicion hecha con amor </p>
+     <nav>
+        <ul>
+            <li><a href="index.html">Inicio</a></li>
+            <li><a href="#">Nuestro Menú</a></li>
+            <li><a href="#">Pedidos </a></li>
+            <li><a href="#">Contacto </a></li>
+        </ul>
+        <h2>Registra tu pedido</h2>
+             <img src="C:\xampp\htdocs\rico tamal\img.jpg/bander1.jpeg" alt="tal" >      
+                 <hr>
+    </nav>
+</header>
+<main>
+    <section>
+        <h3><a href="#">Nuestro Menú</a> </h3>
+        <p>Nuestros tamales son hechos con los alimentos mas frescos del mercado para ofrecerte
+            una magnifica experiencia, con un tamal hecho con el mismo amor de la abuela. </p>
+    </section>
+    <section>
+        <h3>Registra tus datos y tu pedido </h3>
+        <img src="C:\xampp\htdocs\rico tamal\img.jpg/aside.jpg" alt="registro">
+        <form>
+            <P> Acepto Acuerdo: </P> <input type ="checkbox" nombre =" aceptoacuerdo " ID =" aceptoacuerdo " > <br > Al Como utilizar este Sitio web, el usted Acepta el USO de su Información del SE de Como describir En Este Aviso de Privacidad. Por favor, tenga en cuenta que los Sitios
+                Web específica de otro país, regional y de práctica contenidos en myapp.com son proporcionados por otras entidades dentro de la red y no son proporcionados por nosotros. Estos sitios web, así como otros sitios web que pueden estar
+                vinculados a este sitio web, no se rigen por este Aviso de privacidad. Invitamos a los visitantes a revisar cada uno de los Avisos de Privacidad de esos otros Sitios Web antes de divulgar cualquier información personal. Este Aviso
+                de Privacidad puede ser completado o modificado de vez en cuando por los Avisos de Privacidad específicos sobre ciertas áreas de este Sitio Web (por ejemplo, la contratación). Para obtener más detalles sobre el proceso de contratación
+                en línea, por favor revise la declaración específica que regule esa área. Si tiene alguna pregunta sobre este Aviso de privacidad, por favor póngase en contacto con Contacto con nosotros.</P>
+            <p>Digite su nombre </p><input type="text" name="nombreusuario" id="nombreusuario" placeholder="digite su nombre"><br><br>
+            <P>Digite su numero de contacto</P>
+            <input type="number"name="telefonousuario" id="telefonousuario" placeholder="digite su numero de telefono "><br><br>
+            <p>Digite la direccion a la que desea le llegue su pedido  </p>
+            <input type="text" name=" direccion" id="direccion" placeholder="digite la direccion de entrega ">
+
+        </form>
+
+    </section>
+</body>
+</html>
