@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rico tamal </title>
+</head>
+<body>
+    <header>
+        <h1>Rico Tamal </h1>
+        <p>Una deliciosa tradicion hecha con amor </p>
+         <nav>
+            <ul>
+                <li><a href="#inicio">Inicio</a></li>aa
+                <li><a href="#">Nuestra Empresa</a></li>
+                <li><a href="#">Nuestro Menú</a></li>
+                <li><a href="pedidos.html" target="blank">Pedidos </a></li>
+                <li><a href="#">Contacto </a></li>
+            </ul>
+                 <img src="C:\xampp\htdocs\rico tamal\img.jpg/bander1.jpeg" alt="tal" >      
+                     <hr>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h3 id="inicio">Nuestra Empresa</h3>
+            <p>Somos una empresa dedicada a la produccion y venta de productos alimenticios, que busca mantener la tradición 
+                y el sabor de nuestros abuelos evocando aquelos años donde consumian lo que el campo les daba, como el maiz 
+                la papa , el tomate y cantidad de productos ricos en vitaminas que alimentaron a nuestro vigorosos abuelos.
+                Asi que siendo una empresa mas familiar que empresa te queremos llevar toda la tradicion paisa a la mesa de tu 
+            casay que tu paladar sea privilegiado con una rica sazon </p>
+        </section>
+        <section>
+            <h3><a href="#">Nuestro Menú</a> </h3>
+            <p>Nuestros tamales son hechos con los alimentos mas frescos del mercado para ofrecerte
+                una magnifica experiencia, con un tamal hecho con el mismo amor de la abuela. </p>
+        </section>
+        <section>
+            <h3>Puedes Escoger Tamales de:</h3>
+            <ul>
+                <li><a id="Menú">Menú</a></li>
+                <li><a href="#Tamal de Cerdo "> Tamal de Cerdo</a></li>
+                <li><a href="#">Costilla</a></li>
+                <li><a href="#">Especial</a></li>
+                <li><a href="#">Mixto</a></li>
+                <li><a href="#">pollo</a></li>
+                <li><a href="#">Ranchero</a></li>
+                <li><a href="#">Res</a></li>
+                <li><a href="#">Tolimense</a></li>  
+            </ul>
+            <img src="C:\xampp\htdocs\rico tamal\img.jpg/costilla.jpg" alt="costilla" width="500px">
+        </section>
+        <section>
+            <h3>Tradicion paisa </h3>
+            <ul>
+                <li>Empanadas de Arroz</li>
+                <li>Empanadas de Papa y carne</li>
+                <li>Pasteles de Pollo</li>
+                <li>Tortas de carne</li>
+
+            </ul>
+        </section>
+        <section>
+            <a href="#Menú">Menú</a>
+            <h3 id="Tamal de Cerdo" > Tamal de Cerdo</h3>
+            <p>Nuestro tamal de cerdo es hecho con una masa exquisita debidamente aliñada, con productos frescos,con carne 
+                de cerdo y trocitos de un rico tocino , papa
+            </p>
+        </section>
+        <section>
+            <h3> Realice su Pedido</h3>
+            <h4><a href="pedidos.html">Quiero Hacer Pedido</a></h4>
+        </section>
+        <section>
+            <a href=""></a>
+        </section>
+    </main>
+    <footer>
+        <p>nilson castro </p>
+        <p>nil.castr06@gmail.com</p>
+        <p>3046620202</p>
+
+    </footer>
+</body>
+</html>
